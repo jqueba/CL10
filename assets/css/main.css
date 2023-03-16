@@ -3,8 +3,21 @@
 
 /*PERSONAL CHANGES*/
 
-.colorwhite {color: white; !important}
+.colorwhite {color: #FFFFFF; !important}
+.colorblack {color: #000000; !important}
 
+.lefticons{
+    list-style: none;
+    font-size: 13px;
+}
+
+.sitac > p > strong{
+    color: #FFF !important;
+}
+
+wrapper > section > .content > p, strong{
+    color: #000 !important
+}
 
 /*PERSONAL CHANGES*/
 
